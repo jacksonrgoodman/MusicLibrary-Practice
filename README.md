@@ -6,8 +6,8 @@ gitclone this repository
 
 ## Usage
 use these files within Visual Studio 2019
-SQLQuery1 - installs data
-SQLQuery2 - Practice examples and commented out solutions
+* SQLQuery1 - installs data
+* SQLQuery2 - Practice examples and commented out solutions
 
 ## Contributing
 [Jackson](https://github.com/jacksonrgoodman)  
